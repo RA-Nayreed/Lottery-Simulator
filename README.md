@@ -1,4 +1,4 @@
-**Lottery Simulator**
+**Lottery Simulator**\n
 Welcome to the Lottery Simulator! This Python-based program allows you to simulate the lottery and track the outcomes of multiple lottery tickets over several weeks. You can customize the lottery rules, buy tickets, and observe the results of each weekly draw.
 
 **Features**
@@ -21,7 +21,7 @@ Clone the repository or download the script:
 
 bash
 Copy code
-git clone https://github.com/yourusername/lottery-simulator.git
+git clone https://github.com/RA-Nayreed/lottery-simulator.git
 Make sure all dependencies are installed (though for this basic version, there are no external libraries required beyond Python’s standard library).
 
 Usage
